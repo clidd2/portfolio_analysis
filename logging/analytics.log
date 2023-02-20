@@ -1,0 +1,7 @@
+23-02-05: Function easy_function was unable to run. Error handled: {err}
+23-02-05: Function easy_function was unable to run. Error handled: can't multiply sequence by non-int of type 'dict'
+23-02-05: Function easy_function was unable to run. Error handled: can't multiply sequence by non-int of type 'dict'
+23-02-05: Function easy_function was unable to run. Error handled: can't multiply sequence by non-int of type 'dict'
+23-02-05: Function easy_function took {run_time} to run
+23-02-05: Function easy_function took {run_time} to run
+23-02-05: Function easy_function took 4.00543212890625e-05 to run
